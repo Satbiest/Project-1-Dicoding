@@ -70,7 +70,7 @@ http://localhost:8501
 
 Aplikasi ini juga tersedia online dan dapat diakses melalui:
 
-👉 [https://airindex.streamlit.app/](https://airindexx.streamlit.app/)
+👉 [https://airindexx.streamlit.app/](https://airindexx.streamlit.app/)
 
 ---
 
