@@ -19,7 +19,7 @@ st.set_page_config(
 # ==========================================
 @st.cache_data
 def load_data():
-    zip_path = "final_df.csv.zip"
+    zip_path = "dashboard/final_df.csv.zip"
     csv_filename = "final_df.csv" 
 
     if not os.path.exists(zip_path):
